@@ -1,10 +1,8 @@
 #pragma once
 
-
 #include "ofMain.h"
 #include "ofxGui.h"
 #include "ofxCv.h"
-#include "ofxBox2d.h"
 #include "ofxOsc.h"
 
 #define HOST "localhost"
