@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<group>
+	<Blur_Level>5.5</Blur_Level>
+	<Threshold>47</Threshold>
+	<Erode_Iterations>0</Erode_Iterations>
+	<Dilate_Iterations>3</Dilate_Iterations>
+	<Invert>1</Invert>
+	<Contour_Min_Area>41.59</Contour_Min_Area>
+	<Contour_Max_Area>105.79</Contour_Max_Area>
+	<Contour_Threshold>128</Contour_Threshold>
+	<Contour_Holes>1</Contour_Holes>
+	<Contour_Simplify>1</Contour_Simplify>
+</group>
